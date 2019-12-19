@@ -1,0 +1,23 @@
+{
+  "name": "usestatecallback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frank1e0927/useStateCallback.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frank1e0927/useStateCallback/issues"
+  },
+  "homepage": "https://github.com/Frank1e0927/useStateCallback#readme",
+  "devDependencies": {
+    "@types/react": "^16.9.16",
+    "react": "^16.12.0"
+  }
+}

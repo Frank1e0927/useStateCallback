@@ -1,0 +1,1 @@
+export { useStateCallback as default } from './useStateCallback'
