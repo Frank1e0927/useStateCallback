@@ -2,8 +2,8 @@ similar to setState second param callback
 
 
 example
-jsx
-```
+
+```jsx
 const [state, setState] = useStateCallback({
   name: 'frankie'
 }, (state) => {
